@@ -9,5 +9,5 @@
 */
   $serverUrl = "https://friendsmashweb.herokuapp.com";
   $appNamespace = "friendsmash";
-  $appId = "480369938658210";
+  $appId = "1080749808773046";
 ?>
