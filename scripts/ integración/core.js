@@ -27,8 +27,8 @@
     Developer site at https://developers.facebook.com/apps
 */
 var server_url = "https://friendsmashweb.herokuapp.com";
-var appId = '480369938658210';
-var appNamespace = 'friendsmash';
+var  appId  =  '1080749808773046' ;
+var  appNamespace  =  'friendsmash' ;
 var appCenterURL = '//www.facebook.com/appcenter/' + appNamespace;
 
 var g_useFacebook = true;
