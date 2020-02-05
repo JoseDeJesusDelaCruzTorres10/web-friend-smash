@@ -8,6 +8,6 @@
     Developer site at https://developers.facebook.com/apps
 */
   $serverUrl = "https://friendsmashweb.herokuapp.com";
-  $appNamespace = "friendsmash";
+  $appNamespace = "friendsmashweb";
   $appId = "1080749808773046";
 ?>
