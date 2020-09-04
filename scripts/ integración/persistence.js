@@ -39,8 +39,13 @@ mind that Parse has help in case you run into any issues.
 
 You may register at Parse.com to get an application ID and Javascript key:
 */
-var APP_ID = 'FP8ClHR6PtwjxMQIjbUnoxxjelJ941TuLCTG4lUD';
-var MASTER_KEY = 'ZfpqpD85szFWbotii0NCMbdC92dAJduogz1ilYyj';
+var Aplication_ID = 'FP8ClHR6PtwjxMQIjbUnoxxjelJ941TuLCTG4lUD';
+var JavaScript_Key = 'ZfpqpD85szFWbotii0NCMbdC92dAJduogz1ilYyj';
+var Net_key = 'ePGaX8MpbWH6mIGpsVVnzLY7OMTSFrZRx6AzARbV';
+var MASTER_key = 'iTIrxlVROPUhy1OAINL6082Cbrn1unBpRaau2Hpy';
+var REST_API_key = 'pN3Npfme1xdSngJLQdhEg5jzI4HZcQw4JEMDK8nN';
+var File_key = '31ea0cb9-937c-4729-b074-0103a56963bb';
+var Webhook_key = 'AoAFjOEutxG5PP6sHYQt7UF1Elpo4SCXPNXEXHs';
 
 /*
 Parse has a specialized user class called Parse.User that automatically handles
